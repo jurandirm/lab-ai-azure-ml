@@ -1,2 +1,2 @@
-# lab-ai-azure-ml
+# LAB AI Azure ML
 Laboratório de teste do Azure Machine Learning
